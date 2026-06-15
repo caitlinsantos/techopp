@@ -1,0 +1,4 @@
+My team and I set out to connect ESL high school students with advisors who have experience in the tech field. Students can sign up through their ESL teachers and find out which tech career might interest them the best and choose an advisor. Advisors meet virtually with the student once a month during the ESL class (safe place). It is a game-changing opportunity for public high school students who are often overlooked for these types of programs because of their lack of English.
++ Integrated IBM Watson Assistant in the website to capture students' preferences and provide a tech career match with the help of AI (logic conditions, variables, etc.)
++ Built a prototype to store students' responses from a form into the server database so that advisors can have access to the information at any given time
++ Pushed HTML and CSS repositories using GitHub for website deployment
